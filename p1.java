@@ -3,4 +3,6 @@ public class p1 {
 		//TODO Auto-generated method stub
 		System.out.println("Hello Sai");
 	}
+	System.out.println(");
+System.out.println();
 }
